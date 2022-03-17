@@ -18,6 +18,7 @@ namespace _153502_ShaikovaVeronika
 
             frst_val_strg = Console.ReadLine();
 
+            
             Console.WriteLine("Input a divider: ");
 
             scnd_val_strg = Console.ReadLine();

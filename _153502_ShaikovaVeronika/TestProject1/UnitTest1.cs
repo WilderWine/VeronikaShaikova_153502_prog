@@ -1,7 +1,7 @@
 using System;
 
 using Xunit;
-//using Microsoft.VisualStudio.TestTools.UnitTesting;
+
 
 namespace TestProject1
 {
@@ -11,9 +11,9 @@ namespace TestProject1
         [Fact]
         public void Test1()
         {
-            
+
             string a = "35";
-            string b = "7";
+            string b = "5";
             
 
             float c = float.Parse(a);
@@ -21,7 +21,7 @@ namespace TestProject1
 
             float trd_val = c / d;
 
-            Assert.Equal(5, trd_val);
+            Assert.Equal(4, trd_val);
 
 
 
@@ -30,7 +30,7 @@ namespace TestProject1
         [Fact]
         public void Test2()
         {
-            string a = "1";
+            string a = "2";
             string b = "1";
             
 
@@ -39,7 +39,7 @@ namespace TestProject1
 
             float trd_val = c / d;
 
-            Assert.Equal(1, trd_val);
+            Assert.Equal(2, trd_val);
         }
 
         [Fact]
@@ -55,6 +55,7 @@ namespace TestProject1
             float trd_val = c / d;
 
             Assert.Equal(0.5, trd_val);
+
         }
 
      
