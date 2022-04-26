@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LAB_6_PASTTRESSURE", "LAB_6_PASTTRESSURE.csproj", "{19ABF84A-D9BF-47FF-BC99-6AC3E0D17A85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zTest", "..\zTest\zTest.csproj", "{00AC6214-8A4F-424F-9277-6608F919771A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19ABF84A-D9BF-47FF-BC99-6AC3E0D17A85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19ABF84A-D9BF-47FF-BC99-6AC3E0D17A85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19ABF84A-D9BF-47FF-BC99-6AC3E0D17A85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19ABF84A-D9BF-47FF-BC99-6AC3E0D17A85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00AC6214-8A4F-424F-9277-6608F919771A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00AC6214-8A4F-424F-9277-6608F919771A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00AC6214-8A4F-424F-9277-6608F919771A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00AC6214-8A4F-424F-9277-6608F919771A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C609CA04-AAB6-4905-B906-4BD5DC94BA11}
+	EndGlobalSection
+EndGlobal

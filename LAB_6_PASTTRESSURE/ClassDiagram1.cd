@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="LAB_6_PASTTRESSURE.Car" Collapsed="true">
+    <Position X="2.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEABAAAAAAAQAAAAAAAAAAGAA=</HashCode>
+      <FileName>Car.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LAB_6_PASTTRESSURE.Auto" Collapsed="true">
+    <Position X="4.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAAAAAAEABAAAAAAAQAAAAAAAAAAGAA=</HashCode>
+      <FileName>Class1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LAB_6_PASTTRESSURE.SportCar" Collapsed="true">
+    <Position X="1.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEABAAAAAAAQAAAAAAAAAAGAA=</HashCode>
+      <FileName>SportCar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LAB_6_PASTTRESSURE.Traktor" Collapsed="true">
+    <Position X="6.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEABAAAAAAAQAAAAAAAAAAGAA=</HashCode>
+      <FileName>Traktor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LAB_6_PASTTRESSURE.Zhigulj" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAA=</HashCode>
+      <FileName>Zhigulj.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
