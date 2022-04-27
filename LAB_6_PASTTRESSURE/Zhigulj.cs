@@ -9,10 +9,10 @@ namespace LAB_6_PASTTRESSURE
     public sealed class Zhigulj : Car
     {
         private static int max_speed = 50;
-        public override string funk1()
+       /* public override string funk1()
         {
             return "This is an object of CAR or ZHIGULJ class. This is primary car still u'll be cool with it in the forest:)";
-        }
+        }*/
         public Zhigulj()
         {
             //max_speed = 50;
